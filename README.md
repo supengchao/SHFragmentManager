@@ -4,6 +4,7 @@ If you use this repository you don't need to think show or hide fragment and you
 
 ##Preview
 
+![Gif](https://github.com/smallSohoSolo/SHFragmentManager/blob/master/GIF.gif?raw=true)
 
 ##Usage
 
