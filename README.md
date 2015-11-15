@@ -10,7 +10,7 @@ If you use this repository you don't need to think show or hide fragment and you
 
 ```
 dependencies {
-    compile 'com.smallsoho.shfragmentmanager:library:1.0.0'
+    compile 'com.smallsoho.shfragmentmanager:shfragmentmanager:1.0.0'
 }
 ```
 
