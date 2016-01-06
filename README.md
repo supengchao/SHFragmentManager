@@ -1,9 +1,10 @@
+![Gif](https://github.com/smallSohoSolo/SHFragmentManager/blob/master/thunder.png?raw=true)
 # SHFragmentManager
 A simple fragment manager to help you easy to change fragment
 If you use this repository you don't need to think show or hide fragment and you don't need to think the manager how to work.You only need to "choose" or "replace".
 
 ##Preview
-
+a
 ![Gif](https://github.com/smallSohoSolo/SHFragmentManager/blob/master/GIF.gif?raw=true)
 
 ##Usage
